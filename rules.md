@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) task.
 
-Share workload evenly and if someone is having trouble with their part do what we can to help them without taking over task. If a task needs to be reassigned for any reason ask if anyone would be willing or give it to whoever has least workload. 
+Share workload evenly and if someone is having trouble with their part do what we can to help them without taking over task. If a task needs to be reassigned for any reason ask if anyone would be willing or give it to whoever has least workload. Also before assigning a task to teammates, make sure all teammates could do the task and assign tasks based on teammates' ability.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
@@ -22,9 +22,10 @@ Be open and honest if we can do something or don't know how. Be understanding of
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-Hold eachother accountable for our tasks. Meet before dealine to make sure that things are on track to get done on time.
+Hold each other accountable for our tasks. Meet before dealine to make sure that things are on track to get done on time.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
+Team member can vote and tablk the problem out when we don't agree on one issue.
 
 
