@@ -33,7 +33,7 @@ We decided to tackle the problem of losing things in a desk after you put them i
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
-We would use an array to store all the drawers of a desk becasue they don't change. Inside each Array element would be a BST that would hold all of the elements in the drawer in alphabetical order so we can search by name each item.
+We would use an array to store all the drawers of a desk becasue they don't change. Inside each Array element would be a BST that would hold all of the elements in the drawer in alphabetical order so we can search by name each item. And in the main.java could include put method which set the name of the book into the BST in alphabetical order; search method which can search for the name of the item and return whether it has been searched or not.  
 
 ## Questions to answer for Exercise #2
 
