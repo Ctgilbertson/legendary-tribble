@@ -10,7 +10,7 @@
        * GitHub username 1:ctgilbertson       name 1:Chris Gilbertson
        * GitHub username 2:Eas0nS       name 2: Yuxuan Shao
        * GitHub username 3:camillathorsland      name 3:Camilla Thorsland
-       * GitHub username 4:       name 4:
+       * GitHub username 4: Grothaus      name 4: Jacob Grothaus
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 10/21
    * How long did it take your team to complete this exercise? 1 hour
