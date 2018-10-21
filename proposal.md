@@ -63,7 +63,7 @@ Items: contain the name of the item to calculate its priority.
 Drawer: implements a BST of item nodes based on alphabetical order. Each drawer would have a custom name. 
 Desk: Stores the root of each drawer into an array of drawer objects. Desk would have a name and array would be the size of how many drawers there are.
 DeskOrganizerADT: operations the user could perform. i.e. put, search, remove 
-DeskOrganzer: Implementation of DeskOrganizerADT using data structures described earlier.
+DeskOrganizer: Implementation of DeskOrganizerADT using data structures described earlier.
 
 Name each interface or class and briefly describe its function or purpose.
 
