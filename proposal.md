@@ -62,7 +62,8 @@ Use text menu to tell user what drawer item is in. Menu would have options: Buil
 Items: contain the name of the item to calculate its priority.
 Drawer: implements a BST of item nodes based on alphabetical order. Each drawer would have a custom name. 
 Desk: Stores the root of each drawer into an array of drawer objects. Desk would have a name and array would be the size of how many drawers there are.
-DeskADT: operations the user could perform. i.e. put, search, remove 
+DeskOrganizerADT: operations the user could perform. i.e. put, search, remove 
+DeskOrganzer: Implementation of DeskOrganizerADT using data structures described earlier.
 
 Name each interface or class and briefly describe its function or purpose.
 
