@@ -26,6 +26,6 @@ Hold each other accountable for our tasks. Meet before dealine to make sure that
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-Team member can vote and tablk the problem out when we don't agree on one issue.
+Team member can vote and talk the problem out when we don't agree on one issue.
 
 
