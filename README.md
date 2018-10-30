@@ -7,12 +7,11 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:ctgilbertson       name 1:Chris Gilbertson
-       * GitHub username 2:Eas0nS       name 2: Yuxuan Shao
-       * GitHub username 3:camillathorsland      name 3:Camilla Thorsland
-       * GitHub username 4: Grothaus      name 4: Jacob Grothaus
-       * GitHub username 5:       name 5:
-   * When did you complete this exercise? 10/21
+       * GitHub username 1:ctgilbertson           name 1:Chris Gilbertson
+       * GitHub username 2:Eas0nS                 name 2:Yuxuan Shao
+       * GitHub username 3:camillathorsland       name 3:Camilla Thorsland
+       * GitHub username 4:Grothaus               name 4:Jacob Grothaus
+   * When did you complete this exercise? 10/21 & 10/29 (Jacob Grothaus in review session for another class on 10/21)
    * How long did it take your team to complete this exercise? 1 hour
 
 ## Table of Contents
